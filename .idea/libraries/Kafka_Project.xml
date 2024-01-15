@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Kafka_Project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Kafka_Project.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
